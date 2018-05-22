@@ -1,0 +1,71 @@
+.btn {
+	line-height: 0.5px !important;
+}
+
+.navbar .btn {
+	margin: 10px 3px !important;
+}
+
+.table-striped table>thead>tr>th {
+	color: #07f907 !important;
+	font-weight: bold !important;
+}
+
+.labelInput {
+	color: #f904ef !important;
+	font-weight: bold !important;
+}
+
+.main-panel-login {
+	z-index: 2;
+	width: 50%;
+	margin-left: 25%;
+}
+
+.info-text {
+	padding: 5px 0px;
+	display: block;
+	font-size: 15px;
+	color: #ffffff !important;
+	text-align: center;
+	font-weight: 300;
+	line-height: 16px;
+}
+
+.form-group>label {
+	color: black !important;
+	font-weight: bold !important;
+}
+
+.btn-default {
+	color: black !important;
+	background-color: #fff !important;
+	border-color: #ccc !important;
+}
+
+.btn-default>a {
+	color: black !important;
+}
+
+.avatar {
+	width: 95px !important;
+	height: 80px !important;
+	margin-left: 80px !important;
+}
+
+.img-book{
+	width: 115px !important;
+	height: auto;
+}
+
+.img-book-edit{
+	width: 69% !important;
+	height: auto;
+}
+
+.table-admin table > thead > tr > th{
+	text-align: center !important;
+	vertical-align: middle !important;
+	color: black !important;
+	font-weight: bold !important;
+}

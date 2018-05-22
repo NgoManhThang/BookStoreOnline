@@ -1,0 +1,16 @@
+.register-card {
+	background-color: #05f97257 !important;
+}
+
+.register-card .title {
+	color: #fd0101 !important;
+	text-align: center !important;
+	font-weight: bold !important;
+}
+
+.title-top {
+	color: white;
+	font-weight: bold;
+	margin-top: 56px;
+	margin-bottom: unset;
+}
